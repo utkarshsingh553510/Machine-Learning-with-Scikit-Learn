@@ -215,7 +215,7 @@ www.linkedin.com/in/utkarsh-singh-ds
 
 **GitHub**
 
-github.com/utkarshsingh553510
+GitHub: github.com/utkarshsingh553510
 
 ---
 
