@@ -209,13 +209,13 @@ Currently building projects and documenting my learning journey in:
 
 # 🤝 Connect With Me
 
-**LinkedIn**
+## 🤝 Connect With Me
 
-www.linkedin.com/in/utkarsh-singh-ds
+**LinkedIn**  
+https://www.linkedin.com/in/utkarsh-singh-ds
 
-**GitHub**
-
-GitHub: github.com/utkarshsingh553510
+**GitHub**  
+https://github.com/utkarshsingh553510
 
 ---
 
