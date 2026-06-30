@@ -1,4 +1,10 @@
-# 🤖 Machine Learning with Scikit-Learn
+# 🤖 Machine Learning with Scikit-Learn  
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![GitHub Repo stars](https://img.shields.io/github/stars/utkarshsingh553510/Machine-Learning-with-Scikit-Learn?style=social) 
 
 > **A comprehensive collection of self-written Machine Learning notes built using Scikit-learn.**
 >
@@ -18,25 +24,25 @@ Whether you're preparing for **Data Analyst**, **Machine Learning Engineer**, or
 
 # 📚 Topics Covered
 
-| No. | Topic |
-|-----|-------------------------------|
-| 01 | Mathematics for Machine Learning |
-| 02 | Introduction to Machine Learning |
-| 03 | Introduction to Scikit-Learn |
-| 04 | Data Preprocessing |
-| 05 | Supervised Machine Learning |
-| 06 | Regression & Classification |
-| 07 | K-Nearest Neighbors (KNN) |
-| 08 | Decision Tree Classifier |
-| 09 | Model Evaluation Metrics |
-| 10 | Confusion Matrix |
-| 11 | Regression Metrics |
-| 12 | Student Score Prediction Project |
-| 13 | Unsupervised Learning |
-| 14 | Clustering |
-| 15 | K-Means Clustering |
-| 16 | Principal Component Analysis (PCA) |
-| 17 | Student Success Predictor Project |
+| No. | Topic | Notes |
+|-----|-------------------------------|------|
+| 01 | Mathematics for Machine Learning | [📖 Open](01-Mathematics-for-Machine-Learning.md) |
+| 02 | Introduction to Machine Learning | [📖 Open](02-Introduction-to-Machine-Learning.md) |
+| 03 | Introduction to Scikit-Learn | [📖 Open](03-Introduction-to-Scikit-Learn.md) |
+| 04 | Data Preprocessing | [📖 Open](04-Data-Preprocessing.md) |
+| 05 | Supervised Machine Learning | [📖 Open](05-Supervised-Machine-Learning.md) |
+| 06 | Regression & Classification | [📖 Open](06-Regression-and-Classification.md) |
+| 07 | K-Nearest Neighbors (KNN) | [📖 Open](07-K-Nearest%20Neighbors%20(KNN).md) |
+| 08 | Decision Tree Classifier | [📖 Open](08-Decision-Tree-Classifier.md) |
+| 09 | Model Evaluation Metrics | [📖 Open](09-Model-Evaluation-Metrics.md) |
+| 10 | Confusion Matrix | [📖 Open](10-Confusion-Matrix.md) |
+| 11 | Regression Metrics | [📖 Open](11-Regression-Metrics.md) |
+| 12 | Student Score Prediction Project | [📖 Open](12-Student-Score-Prediction-Project.md) |
+| 13 | Unsupervised Learning | [📖 Open](13-Unsupervised-Learning.md) |
+| 14 | Clustering | [📖 Open](14-Clustering.md) |
+| 15 | K-Means Clustering | [📖 Open](15-K-Means-Clustering.md) |
+| 16 | Principal Component Analysis (PCA) | [📖 Open](16-PCA.md) |
+| 17 | Student Success Predictor Project | [📖 Open](17-Student-Success-Predictor.md) |
 
 ---
 
